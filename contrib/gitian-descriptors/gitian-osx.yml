@@ -9,7 +9,7 @@ packages:
 - "ca-certificates"
 - "curl"
 - "g++"
-- "git-core"
+- "git"
 - "pkg-config"
 - "autoconf"
 - "librsvg2-bin"
